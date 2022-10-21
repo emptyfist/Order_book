@@ -139,3 +139,9 @@ yarn build
 ```shell script
 yarn test
 ```
+
+### Deploy
+
+```shell script
+npx hardhat run script ./scripts/xxx.js --network xxx
+```
